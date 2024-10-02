@@ -1,12 +1,30 @@
 ## Hi there 👋
 
-<!--
+The roadmap for web tech is in limbo, riddled with over-bloated, 
+semi-open source, toolings of toolings, enterprise cloud service traps, 
+and all encompassing front-end first and last libraries that are always 
+in canary experimenting with other people's live apps and the developers 
+that use them causing regular app rewrites. Things like MVC, design 
+patterns, separation of responsibilities, abstraction, resuability, code 
+once deploy everywhere are non-existent. We choose stacks purely based 
+on popularity, and always and code the same sign-in form page from the 
+ground up for lack of a better option. The learning curve for web 
+development has gone full `pill`. It takes 4 times longer to do anything 
+because there a lot of ops. It started with just server ops, then added 
+dev ops, now it's ops of ops that manage tools of tools. There are so much
+tools of tools that there are now automation of tools, which in fact is 
+another tool in itself. And 22 years later, we still get auto-scaling 
+on AWS wrong. Cloud services are built on top of other cloud services.
+they simply combine two or more services together and charge more for 
+the use of that service. Then services are created on top of these cloud 
+service derrivatives and charge even more. Web development is 
+exponentially harder today and bares the huge risk of learning time. A 
+library designed to temporarily shim web components in 2013 beat native 
+web components today due to better marketing overtime. Then the same 
+library that invented front-end first, and destroyed a generation from 
+learning MVC and good design patterns decide to force their community to 
+write components on the server and claim it's stable, but you can't do a
+simple server redirect to a dynamic URL after a form submission. It all
+went downhill when Oracle changed the MySQL license.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> There is absolutely nothing wrong.
