@@ -21,11 +21,11 @@ cloud service derrivatives by 3rd parties charge even more. Web
 development is exponentially harder today and bares the huge risk of 
 learning time and death months later. A library designed to temporarily 
 shim web components in 2013 beat native web components today due to 
-better marketing overtime. Then the same library that invented front-end 
+better marketing overtime. Then that same library that invented front-end 
 first, and destroyed a generation from learning MVC and good design 
 patterns decide to force their community to write components on the 
-server and claim it's stable, but you can't do a simple server redirect 
-to a dynamic URL after a form submission. It all went downhill when 
-Oracle changed the MySQL license.
+server and claim it's stable, but you still can't do a simple server 
+redirect to a dynamic URL after a form submission. It all went downhill 
+when Oracle changed the MySQL license.
 
 > There is absolutely nothing wrong.
