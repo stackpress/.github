@@ -17,7 +17,7 @@ another tool in itself. And 22 years later, we still get auto-scaling
 on AWS wrong. Cloud services are built on top of other cloud services
 or combine two or more services together in order to charge more 
 for the use of that service. Then services are created on top of these 
-cloud service derrivatives by 3rd parties and charge even more. Web 
+cloud service derrivatives by 3rd parties charge even more. Web 
 development is exponentially harder today and bares the huge risk of 
 learning time and death months later. A library designed to temporarily 
 shim web components in 2013 beat native web components today due to 
