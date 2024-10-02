@@ -29,7 +29,13 @@ better marketing overtime. Then that same library that invented front-end
 first, and destroyed a generation from learning MVC and good design 
 patterns decide to force their community to write components on the 
 server and claim it's stable, but you still can't do a simple server 
-redirect to a dynamic URL after a form submission. It all went downhill 
-when Oracle changed the MySQL license.
+redirect to a dynamic URL after a form submission. With this new 
+direction of putting components on the server, a framework built on top 
+of this library decides to add another highly opinionated routing system 
+into the core instead of just creating another framework to save 
+marketing costs, and now causes a simple `hello world` to require 
+200 MB of packages minimum and takes no responsibility on the surcharges 
+that get billed when a serverless function exceeds the free tier. It 
+all went downhill when Oracle changed the MySQL license.
 
 > There is absolutely nothing wrong.
