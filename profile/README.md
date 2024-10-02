@@ -14,10 +14,10 @@ because there a lot of ops. It started with just server ops, then added
 dev ops, now it's ops of ops that manage tools of tools. There are so much
 tools of tools that there are now automation of tools, which in fact is 
 another tool in itself. And 22 years later, we still get auto-scaling 
-on AWS wrong. Cloud services are built on top of other cloud services.
-they simply combine two or more services together and charge more for 
-the use of that service. Then services are created on top of these cloud 
-service derrivatives and charge even more. Web development is 
+on AWS wrong. Cloud services are built on top of other cloud services
+and simply combine two or more services together in order to charge more 
+for the use of that service. Then services are created on top of these 
+cloud service derrivatives and charge even more. Web development is 
 exponentially harder today and bares the huge risk of learning time. A 
 library designed to temporarily shim web components in 2013 beat native 
 web components today due to better marketing overtime. Then the same 
